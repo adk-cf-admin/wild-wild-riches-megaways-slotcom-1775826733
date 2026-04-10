@@ -1,0 +1,19 @@
+{
+  "name": "Wild Wild Riches Megaways",
+  "short_name": "Wild Wild Riches Megaways",
+  "theme_color": "",
+  "background_color": "#050A04",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1775825361-logo-wild-wild-riches-megaways-29a2bcb6f7-11.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

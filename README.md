@@ -1,1 +1,8 @@
-# wild-wild-riches-megaways-slotcom-1775826733
+# wild-wild-riches-megaways-slot.com
+
+
+
+Built on: 2026-04-10 13:12:15
+
+Available languages:
+- en-nz-en-NZ

@@ -1,0 +1,220 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#050A04",
+            "lang-select-color": "#FFC400",
+            "bg-light": "#0A1408",
+            "welcome-bonus-bg": "#1B3B15",
+            "top-games-hover-fg": "#00FF44",
+            "main-bg": "#070F05",
+            "text": "#D5E8D3",
+            "text-black": "#ffffff",
+            "table-head": "#0F401A",
+            "text-head": "#ffffff",
+            "hero-title-text": "#FFFFFF",
+            "welcome-bonus-text": "#ABC7A7",
+            "yellow": "#0066FF",
+            "yellow-button": "#FFC400",
+            "button-text": "#FFFFFF",
+            "main-button-text": "#140A00",
+            "border-color": "#D1A12A",
+            "casino-cards": "#12240F",
+            "bonus-border-head": "#FFC400",
+            "bonus-border": "#192E15",
+            "providers-back": "#12240F",
+            "faq-label": "#12240F",
+            "bg-footer": "#020301",
+            "copyright": "#556B51",
+            "starColor": "#FFD700",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6007"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6008",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Wild Wild Riches Megaways Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6009",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Wild Wild Riches Megaways"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-nz-en-NZ",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "NZ",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Wild Wild Riches Megaways",
+                    "title": "Wild Wild Riches Megaways — Best NZ Online Pokie",
+                    "description": "Play Wild Wild Riches Megaways pokie in New Zealand. Pragmatic Play Megaways slot, 117,649 ways to win, 10,000x max win & RTP 96.02%. Spin now!",
+                    "canonical": "wild-wild-riches-megaways-slot.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6010",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "wild-wild-riches-megaways-slot.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6011"
+                },
+                "hero": {
+                    "title": "Wild Wild Riches Megaways Pokies for NZ Players",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6012",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6013",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a high-volatility Irish luck pokie trusted by New Zealand players? Wild Wild Riches Megaways by Pragmatic Play delivers 117,649 ways to win, RTP up to 96.02%, and a staggering 10,000x max win. Here's what sets this Megaways slot apart for Kiwi players:",
+                    "items": [
+                        "Pragmatic Play certified slot with RTP up to 96.02% & iTech Labs-tested RNG",
+                        "117,649 Megaways on a 6x7 dynamic grid — maximum winning ways per spin",
+                        "Money Collect feature with jackpots up to 250x stake & x5 multiplier symbols",
+                        "Up to 20 Free Spins with extra wilds, money symbols & +6 spins per retrigger",
+                        "Bonus Buy available for NZ players at 100x stake — instant bonus round access",
+                        "Fully mobile-optimised HTML5 slot — play on any NZ Android, iPhone, or tablet"
+                    ],
+                    "advantagesAfterText": "Join thousands of Kiwi pokie fans who spin Wild Wild Riches Megaways daily at top NZ-licensed online casinos. Our recommended operators accept NZD deposits and offer generous welcome bonuses for New Zealand players.",
+                    "knowMore": "Know more",
+                    "appTitle": "Wild Wild Riches Megaways App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6014",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Wild Wild Riches Megaways App",
+                    "mobileGooglePlayImageTitle": "Wild Wild Riches Megaways App",
+                    "mobileIosImageTitle": "Wild Wild Riches Megaways App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Wild Wild Riches Megaways",
+                        "description1": "Wild Wild Riches Megaways is a high-volatility Irish-themed pokie by Pragmatic Play, one of the world's leading iGaming developers. Released in 2023, it brings the beloved Money Collect mechanic to a powerful Megaways engine with up to 117,649 ways to win.",
+                        "items": [
+                            "Developed by Pragmatic Play — top iGaming provider since 2015",
+                            "Megaways engine licensed from Big Time Gaming for dynamic reels",
+                            "Certified RNG fairness tested by independent auditors GLI & iTech Labs",
+                            "Available at 254+ NZ-licensed online casinos — SlotRank #1,160 in NZ"
+                        ],
+                        "description2": "We present a slot certified for fair play with RTP up to 96.02% and HTML5 technology ensuring seamless performance. All outcomes are RNG-tested by GLI and iTech Labs, with full SSL 256-bit encryption at every recommended NZ casino.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6015",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We continue supporting NZ players with the latest Pragmatic Play pokies, responsible gambling tools, and NZD-friendly casinos. Explore Wild Wild Riches Megaways today and chase that 10,000x pot of gold!"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Wild Wild Riches Megaways: Full Slot Guide",
+                        "description": "<h2>Wild Wild Riches Megaways — Complete Game Guide for NZ Players<\/h2>\n\n<p>Wild Wild Riches Megaways is one of the most exciting high-volatility pokies available to New Zealand players today. Developed by Pragmatic Play — a studio with over 535 certified video slots in their library — this Irish-themed Megaways title brings together the beloved Money Collect mechanic, a dynamic 6x7 grid, and a jaw-dropping 10,000x maximum win potential. Whether you're a Kiwi penny punter spinning at NZ$0.20 per round or a high roller staking up to NZ$100, there's a bet level designed precisely for your style. The game uses certified HTML5 technology, runs seamlessly in any browser, and is fully optimised for New Zealand mobile devices without requiring any app download.<\/p>\n\n<h3>What Makes Wild Wild Riches Megaways Stand Out Among NZ Pokies?<\/h3>\n\n<p>New Zealand players searching for a feature-rich pokie with real winning potential will find a lot to love here. The core innovation is the Megaways engine, licensed from Big Time Gaming, which randomly changes the number of symbols on each reel with every single spin. On a maxed-out grid of 6 reels containing 7 symbols each, you unlock all 117,649 ways to win — one of the highest win-way counts available in any NZ online pokie. This dynamic structure means no two spins are ever the same, keeping the Irish countryside adventure fresh and engaging throughout. Pragmatic Play calibrated the volatility at the maximum 5 out of 5, which means wins are less frequent but significantly larger when they hit. For Kiwi players who enjoy high-risk, high-reward gameplay, this is precisely the kind of slot that delivers genuine excitement.<\/p>\n\n<h3>RTP, Volatility & Hit Frequency — What NZ Players Need to Know<\/h3>\n\n<p>Understanding the return-to-player rate is essential for any New Zealand gambler making informed decisions. Wild Wild Riches Megaways offers three possible RTP settings: the top-tier 96.02%, a mid-range 95.08%, and a lower setting of 93.93% — the exact version depends on which NZ-licensed casino you play at. We always recommend seeking out casinos offering the highest available RTP to maximise your long-term return. The 96.02% RTP sits comfortably above the industry average of approximately 95-96%, giving Kiwi players a solid mathematical foundation. Due to its high volatility nature, the game's hit frequency is lower than average, but the Money Collect jackpots — ranging from 25x (Mini) to 250x (Maxi) your stake — make every session full of genuine anticipation. The 10,000x max win has a hit rate of 1 in 17,241,400 spins, making it an extraordinary but achievable dream for New Zealand high rollers.<\/p>\n\n<h3>Symbols, Paytable & What Each Symbol Is Worth<\/h3>\n\n<p>Wild Wild Riches Megaways immerses you in the lush Irish countryside with a vivid set of symbols inspired by Emerald Isle folklore. Landing matching symbols across 3 or more adjacent reels from left to right generates your wins. Wild symbols substitute for any paying symbol and are also central to triggering both the Money Collect feature and the Free Spins bonus. Below is the full paytable breakdown for NZ players, showing what each symbol pays per line across 3, 4, 5, or 6 matching reels:<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #ffbc00;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Symbol<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">3 Reels<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">6 Reels<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #08140c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Pint of Beer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0.75x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">10x<\/td>\n    <\/tr>\n    <tr style=\"background-color: #112316;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Golden Horseshoe<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0.5x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">2.5x<\/td>\n    <\/tr>\n    <tr style=\"background-color: #08140c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>4-Leaf Clover<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0.35x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">2x<\/td>\n    <\/tr>\n    <tr style=\"background-color: #112316;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Harp<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0.2x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">1.5x<\/td>\n    <\/tr>\n    <tr style=\"background-color: #08140c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Mushrooms \/ Pipe<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0.15x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">1.5x<\/td>\n    <\/tr>\n    <tr style=\"background-color: #112316;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>A, K, Q<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0.1x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">1x<\/td>\n    <\/tr>\n    <tr style=\"background-color: #08140c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>J, 10<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0.05x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0.5x<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Money Collect Feature — The Heart of the Game<\/h3>\n\n<p>The Money Collect feature is the star mechanic that keeps New Zealand pokie fans coming back to Wild Wild Riches Megaways. It activates when Wild symbols land on reels 1 and 2 simultaneously, collecting all Money Symbols on adjacent reels (reels 3 through 6). Each Money Symbol carries a prize value ranging from 1x to 20x your stake, and the collected total can be further boosted by Multiplier Symbols showing x2, x3, or x5. Beyond the standard prizes, you can also collect fixed jackpot symbols worth 25x (Mini), 50x (Minor), 100x (Mega), or 250x (Maxi) your stake. For a NZ$10 spin, landing the Maxi jackpot alone delivers NZ$2,500 in a single collect event. The x5 multiplier applied to a full board of money symbols can create extraordinary wins that rival those from the Free Spins bonus round itself.<\/p>\n\n<h3>Wild Wild Riches Megaways Free Spins Bonus Round<\/h3>\n\n<p>The Free Spins bonus round is triggered by landing Wild symbols on reels 1 and 2 together with a Bonus Scatter symbol on reel 3. Once triggered, a Wheel of Fortune determines your free spin count, randomly awarding between 6 and 20 spins. However, Pragmatic Play added an exciting gamble mechanic: if you receive fewer than 20 free spins, you can gamble to increase your total. Each gamble step moves you closer to 20 spins, with winning probabilities between 85.71% and 89.99% depending on your current spin count. The catch is a red zone on the wheel — landing on it forfeits the entire bonus round. During the Free Spins, extra Wild symbols and additional Money Symbols are added to the reel strips, significantly increasing the frequency and value of the Money Collect feature. Every retrigger awards an additional +6 free spins, giving New Zealand players the chance to accumulate a lengthy bonus sequence and target that coveted 10,000x prize. The organic hit rate for the bonus round is 1 in every 363 spins, making it reasonably attainable over a session.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>6 to 20 Free Spins<\/strong> randomly assigned from a Wheel of Fortune on trigger — guaranteed excitement every time the bonus fires for NZ players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Gamble for More Spins:<\/strong> Win probability of 85.71%–89.99% per gamble step; risk the red zone to push towards the maximum 20 free spins.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Enhanced Reel Strips:<\/strong> Extra Wilds and Money Symbols added during Free Spins dramatically increase Money Collect trigger frequency compared to the base game.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Retrigger Mechanic:<\/strong> Each retrigger adds +6 free spins — stacking retriggered spins can lead to a prolonged bonus round with multiple collect events.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Max Win Path:<\/strong> The 10,000x stake maximum is achievable primarily during the Free Spins round when multiplier symbols align with a full board of high-value Money Symbols.<\/li>\n<\/ul>\n\n<h3>How to Trigger the Money Collect Feature in Wild Wild Riches Megaways<\/h3>\n\n<p>To trigger the Money Collect feature, you need Wild symbols on both reels 1 and 2, with at least one Money Symbol on reel 3 that is adjacent to the Wilds. The Wild symbols act as collectors, sweeping up all qualifying Money Symbols from reels 3 to 6. Only symbols directly adjacent to the Wilds on the grid are collected, so the position of Money Symbols on the grid matters significantly. This mechanic encourages close attention to every spin and makes the arrival of a Wild on reel 1 or 2 an immediately exciting event for New Zealand players. The interplay between the standard prize values (1x–20x) and the jackpot symbols (up to 250x) means that even a modest Money Collect trigger can deliver a meaningful payout at any NZ online casino.<\/p>\n\n<h3>Playing Wild Wild Riches Megaways on Mobile in New Zealand<\/h3>\n\n<p>New Zealand players who prefer gaming on the go will find Wild Wild Riches Megaways perfectly optimised for mobile play. Built on HTML5 technology, the game loads instantly in any mobile browser on Android smartphones, iPhones, and tablets without requiring any app download or installation. The dynamic Megaways grid scales beautifully to smaller screens, preserving all visual detail of the Irish countryside theme, the vibrant rainbow, the golden coins, and the shamrock symbols. Touch controls are responsive and intuitive, allowing Kiwi players to adjust bet levels, access the paytable, and activate the Bonus Buy feature with ease. Whether you're spinning during your lunch break in Auckland, relaxing in Queenstown, or commuting through Wellington, Wild Wild Riches Megaways delivers a consistent, high-quality gaming experience across all devices and connection speeds commonly available in New Zealand.<\/p>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "How to Play & Win Tips for NZ Players",
+                        "description": "<h2>Wild Wild Riches Megaways — Bonus Buy, Strategy & Top NZ Casinos<\/h2>\n\n<p>Wild Wild Riches Megaways has firmly established itself as one of the most popular Megaways pokies among New Zealand online casino players, appearing in the lobbies of 254+ NZ-licensed operators with a SlotRank of #1,160 in the New Zealand market. Whether you're brand new to this Pragmatic Play title or a seasoned Kiwi spinner looking to refine your approach, this section covers everything you need — from the Bonus Buy feature and responsible bankroll management to choosing the best NZ casino offering the highest RTP setting. Understanding the mechanics deeply is the difference between a casual session and one that genuinely targets the legendary 10,000x maximum win.<\/p>\n\n<h3>Wild Wild Riches Megaways Bonus Buy — Everything NZ Players Need to Know<\/h3>\n\n<p>One of the most appreciated features of Wild Wild Riches Megaways among New Zealand players is the Bonus Buy option, which allows you to purchase direct access to the Free Spins bonus round for 100x your current stake. At the minimum bet of NZ$0.20, that means a NZ$20 investment instantly places you inside the bonus round where extra Wilds and Money Symbols await. At NZ$1 per spin, the Bonus Buy costs NZ$100 and launches you straight into the higher-stakes action. Critically, Pragmatic Play confirms that the RTP does not change when using the Bonus Buy — you still receive the full 96.02% (at qualifying casinos), making this a statistically equivalent path to the bonus as organic triggering. The organic bonus hit rate is 1 in 363 spins, so for players who prefer immediate action over waiting, the Bonus Buy delivers significant value. Note that this feature is specifically available to New Zealand players and other eligible jurisdictions — it is not offered in certain restricted markets.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cost:<\/strong> 100x your current stake — at NZ$0.20 bet that's NZ$20; at NZ$10 bet it's NZ$1,000 for a high-roller bonus entry.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Same RTP guarantee:<\/strong> Pragmatic Play confirms the 96.02% RTP is unchanged when using Bonus Buy — no statistical disadvantage for NZ players purchasing the feature.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Organic hit rate:<\/strong> 1 in 363 spins naturally — the Bonus Buy simply removes the wait and is ideal for Kiwi players with a defined bonus budget.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Jurisdiction note:<\/strong> Bonus Buy is available to NZ players but restricted in some regulated markets — always confirm availability at your chosen NZ online casino.<\/li>\n<\/ul>\n\n<h3>Betting Strategy for Wild Wild Riches Megaways in New Zealand<\/h3>\n\n<p>Wild Wild Riches Megaways is a high-volatility slot, which means thoughtful bankroll management is essential for New Zealand players aiming for the 10,000x max win. The game accepts bets between NZ$0.20 and NZ$100 per spin, giving Kiwi players enormous flexibility. A widely recommended approach among experienced NZ pokie players is to maintain a bankroll of at least 100–200x your chosen bet level to weather the inevitable dry spells that come with high-volatility gameplay. For example, playing at NZ$1 per spin, a session bankroll of NZ$100–NZ$200 provides sufficient resilience to reach the bonus round organically. Some experienced NZ players adopt a stake-raising strategy when they sense the game building toward a bonus trigger — the bonus round has the richest potential of any session segment, making higher stakes during the lead-up potentially rewarding. However, always play responsibly and within your personal limits.<\/p>\n\n<h3>What Is the Best RTP Version of Wild Wild Riches Megaways for Kiwi Players?<\/h3>\n\n<p>The best RTP version of Wild Wild Riches Megaways is 96.02%, which is set by the individual online casino operator, not by the player. New Zealand players should specifically look for NZ-licensed online casinos that advertise or confirm their Pragmatic Play RTP configuration. The difference between 96.02% and 93.93% may seem small, but over thousands of spins it represents a meaningful variance in expected returns. We recommend checking the game's paytable in the casino lobby — the exact RTP figure is displayed there — before committing to a real-money session. At certified NZ online casinos regulated by reputable licensing bodies, the higher RTP settings are more commonly offered as part of their player-first commitment.<\/p>\n\n<h3>Wild Wild Riches Megaways vs. Similar NZ Pokies — How Does It Compare?<\/h3>\n\n<p>New Zealand players who enjoy Wild Wild Riches Megaways often explore the broader Pragmatic Play and Irish-themed pokie ecosystem. The original Wild Wild Riches (non-Megaways) offers jackpots up to 500x stake — double those in the Megaways version — but with a lower overall max win of 4,608x. Wild Wild Bananas by Pragmatic Play brings a tropical twist with a 12,000x max win potential. Cash Collect Leprechaun's Luck from Playtech offers a similar Irish cash-collect mechanic with walking collector symbols in free spins. The table below gives NZ players a direct comparison of the most relevant alternatives:<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #ffbc00;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Slot<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Max Win<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">RTP<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #08140c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Wild Wild Riches Megaways<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">10,000x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.02%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #112316;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Wild Wild Riches<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">4,608x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">~96%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #08140c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Wild Wild Bananas<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">12,000x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">~96%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #112316;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Cash Collect Leprechaun's Luck<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">500x jackpot<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">~96%<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Responsible Gambling for New Zealand Pokie Players<\/h3>\n\n<p>We are committed to promoting safe and responsible gaming for all New Zealand players who enjoy Wild Wild Riches Megaways. High-volatility pokies like this title can deliver thrilling sessions, but they can also lead to extended losing runs due to their nature. New Zealand players have access to several responsible gambling tools at our recommended casinos: deposit limits, session time reminders, self-exclusion options, and reality checks. The Problem Gambling Foundation of New Zealand (PGF) and the Gambling Helpline (0800 654 655) provide free, confidential support for Kiwis who feel their gambling is becoming a concern. Always set a session budget before spinning Wild Wild Riches Megaways, treat any win as a bonus rather than expected income, and never chase losses. The luck of the Irish is a charming theme — but real wins come from disciplined, informed play backed by genuine knowledge of how Megaways mechanics and Money Collect features work.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Set deposit limits:<\/strong> Most NZ-licensed online casinos allow daily, weekly, or monthly deposit caps — configure these before your first session on Wild Wild Riches Megaways.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Use the free demo:<\/strong> Play the Wild Wild Riches Megaways demo version risk-free to understand the Money Collect and Free Spins mechanics before wagering real NZD.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Understand the volatility:<\/strong> This is a maximum 5\/5 high-variance game — losing streaks of 50+ spins without a feature trigger are statistically normal and should not encourage chasing.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>NZ Support resources:<\/strong> The Problem Gambling Foundation of NZ (problemgambling.org.nz) and Gambling Helpline (0800 654 655) offer free, confidential support 24\/7 for Kiwi players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Self-exclusion options:<\/strong> New Zealand's Department of Internal Affairs oversees gambling regulations; licensed NZ casinos are required to offer self-exclusion tools to all registered players.<\/li>\n<\/ul>\n\n<h3>Why Wild Wild Riches Megaways Is a Must-Try Pokie for NZ Players<\/h3>\n\n<p>Wild Wild Riches Megaways combines the proven appeal of the original Wild Wild Riches with the modern power of the Megaways engine — and the result is a pokie that genuinely delivers for New Zealand players. With 117,649 ways to win, a 10,000x maximum win, an engaging Money Collect mechanic, and a Bonus Buy that respects your time, this Pragmatic Play title ticks every box for Kiwi gambling enthusiasts. The Irish countryside theme, the lively Celtic soundtrack, and the thrill of watching Wilds land on reels 1 and 2 create a gaming experience that is both visually immersive and mechanically rewarding. Available at over 254 NZ-licensed online casinos, it has never been easier for New Zealand players to find a top-rated operator, deposit in NZD, claim a welcome bonus, and start spinning toward that pot of gold at the end of the rainbow.<\/p>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "What is the RTP of Wild Wild Riches Megaways?",
+                            "answer": "The top-tier RTP of Wild Wild Riches Megaways is 96.02%, slightly above the industry average. Operators can set it lower to 95.08% or 93.93%. NZ players should check the paytable at their chosen casino to confirm which RTP version is active before playing."
+                        },
+                        {
+                            "title": "How does the Money Collect feature work in this slot?",
+                            "answer": "The Money Collect feature triggers when Wild symbols land on reels 1 and 2, collecting all adjacent Money Symbols from reels 3–6. Prizes range from 1x to 20x your stake, plus jackpots up to 250x. Multiplier symbols of x2, x3, or x5 can boost the total collected win significantly."
+                        },
+                        {
+                            "title": "Can NZ players buy the bonus round directly?",
+                            "answer": "Yes, the Bonus Buy feature is available to New Zealand players at 100x your current stake. At NZ$0.20 per spin that's just NZ$20 for instant bonus access. The RTP remains unchanged at up to 96.02% when using Bonus Buy, confirmed by Pragmatic Play's certified paytable documentation."
+                        },
+                        {
+                            "title": "How many ways to win does Wild Wild Riches Megaways offer?",
+                            "answer": "Wild Wild Riches Megaways offers up to 117,649 ways to win on its maximum 6x7 dynamic grid. The number of active ways changes with every spin as the Megaways engine randomly assigns 2–7 symbols per reel, keeping every round completely unique for NZ players."
+                        },
+                        {
+                            "title": "How do I trigger Free Spins in Wild Wild Riches Megaways?",
+                            "answer": "Free Spins trigger when Wilds land on reels 1 and 2 together with a Bonus Scatter on reel 3. A Wheel of Fortune awards 6–20 free spins randomly. You can gamble to increase your spin count with an 85.71–89.99% success rate, but landing the red zone forfeits the bonus entirely."
+                        },
+                        {
+                            "title": "Is Wild Wild Riches Megaways available on mobile in NZ?",
+                            "answer": "Yes, Wild Wild Riches Megaways is fully optimised for mobile play in New Zealand. Built on HTML5 technology, it runs perfectly on any Android smartphone, iPhone, or tablet via your browser with no app download required. All features including Bonus Buy work seamlessly on mobile."
+                        },
+                        {
+                            "title": "What is the maximum win in Wild Wild Riches Megaways?",
+                            "answer": "The maximum win in Wild Wild Riches Megaways is 10,000x your stake. At the maximum bet of NZ$100, that's a potential NZ$1,000,000 payout in a single session. The 10,000x prize has a hit rate of 1 in 17,241,400 spins and is most achievable during the Free Spins bonus round."
+                        },
+                        {
+                            "title": "How volatile is Wild Wild Riches Megaways for NZ players?",
+                            "answer": "Wild Wild Riches Megaways is a maximum high-volatility slot, scoring 5 out of 5 on Pragmatic Play's in-game volatility scale. NZ players should expect infrequent but larger wins, with longer dry spells between bonus triggers. A bankroll of 100–200x your stake per session is recommended."
+                        },
+                        {
+                            "title": "Where can NZ players find the best Wild Wild Riches Megaways casinos?",
+                            "answer": "Wild Wild Riches Megaways is available at 254+ NZ-licensed online casinos and ranks #1,160 by SlotRank in New Zealand — one of the most widely offered pokies in the market. Look for NZ operators accepting NZD deposits, offering the 96.02% RTP version, and providing a welcome bonus with free spins."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
